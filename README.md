@@ -56,3 +56,6 @@
 
 [Git 客户端](https://github.com/go-git/go-git)
 
+[Github API](https://github.com/google/go-github)
+
+
