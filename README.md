@@ -10,13 +10,17 @@
 
 [yaml文件解析](https://github.com/go-yaml/yaml)
 
-## 工具
+## 位运算
 
 [bitset 位集操作实现](https://github.com/bits-and-blooms/bitset)
 
-[cli 命令](https://github.com/spf13/cobra)
+## 命令行
+
+[cobra 命令](https://github.com/spf13/cobra)
 
 [cron 定时任务](https://github.com/robfig/cron)
+
+[交互式命令](https://github.com/AlecAivazis/survey)
 
 ## 测试
 
@@ -45,4 +49,10 @@
 
 ## 格式化
 [原生json的替代品](https://github.com/json-iterator/go)
+
+[集合操作](https://github.com/jianfengye/collection)
+
+## Git
+
+[Git 客户端](https://github.com/go-git/go-git)
 
