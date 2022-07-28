@@ -61,3 +61,10 @@
 ## 文档
 
 [Swagger 文档](https://github.com/swaggo/swag)
+
+## 数据库
+[Gorm](https://github.com/go-gorm/gorm)
+
+[Gorm MySQL驱动](https://github.com/go-gorm/mysql)
+
+[Go 的 database/sql 包的 MySQL 驱动程序](https://github.com/go-sql-driver/mysql)
