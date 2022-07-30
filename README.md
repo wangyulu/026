@@ -10,6 +10,8 @@
 
 [yaml文件解析](https://github.com/go-yaml/yaml)
 
+[sftp 文件传输](https://github.com/pkg/sftp)
+
 ## 位运算
 
 [bitset 位集操作实现](https://github.com/bits-and-blooms/bitset)
@@ -68,3 +70,11 @@
 [Gorm MySQL驱动](https://github.com/go-gorm/mysql)
 
 [Go 的 database/sql 包的 MySQL 驱动程序](https://github.com/go-sql-driver/mysql)
+
+## 缓存
+
+[redis](https://github.com/go-redis/redis)
+
+## 其它
+
+[ssh 远程连接](https://pkg.go.dev/golang.org/x/crypto/ssh)
