@@ -49,6 +49,8 @@
 
 [Goroutine本地存储](https://github.com/jtolio/gls)
 
+[获取GoroutineID](https://github.com/petermattis/goid)
+
 ## 格式化
 [原生json的替代品](https://github.com/json-iterator/go)
 
