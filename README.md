@@ -80,3 +80,7 @@
 ## 其它
 
 [ssh 远程连接](https://pkg.go.dev/golang.org/x/crypto/ssh)
+
+## 编译器
+
+[编译器（checkptr）支持](https://golang.org/dl/gotip)
