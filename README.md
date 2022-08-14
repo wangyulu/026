@@ -39,6 +39,8 @@
 
 [基础类型转换组件](https://github.com/spf13/cast)
 
+[线程安全的map](https://github.com/orcaman/concurrent-map)
+
 ## ID生成器
 
 [全球唯一网络ID生成器](https://github.com/rs/xid)
