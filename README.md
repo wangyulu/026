@@ -56,6 +56,10 @@
 
 [集合操作](https://github.com/jianfengye/collection)
 
+## Web Server
+
+[高性能的http包，比 net/http 快 10 倍](https://github.com/valyala/fasthttp)
+
 ## Git
 
 [Git 客户端](https://github.com/go-git/go-git)
@@ -77,6 +81,8 @@
 
 [redis](https://github.com/go-redis/redis)
 
+[gomemcache](https://github.com/bradfitz/gomemcache)
+
 ## 其它
 
 [ssh 远程连接](https://pkg.go.dev/golang.org/x/crypto/ssh)
@@ -90,3 +96,7 @@
 [GoDS（Go 数据结构）- 集合、列表、堆栈、地图、树、队列](https://github.com/emirpasic/gods)
 
 [线程安全的map](https://github.com/orcaman/concurrent-map)
+
+## 连接池
+
+[TCP 连接池](https://github.com/fatih/pool)
