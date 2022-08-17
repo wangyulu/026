@@ -79,9 +79,9 @@
 
 ## 缓存
 
-[redis](https://github.com/go-redis/redis)
+[redis 的GO客户端](https://github.com/go-redis/redis)
 
-[gomemcache](https://github.com/bradfitz/gomemcache)
+[gomemcache memcache 的GO客户端](https://github.com/bradfitz/gomemcache)
 
 [groupcache 缓存填充库](https://github.com/golang/groupcache)
 
