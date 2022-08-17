@@ -83,6 +83,8 @@
 
 [gomemcache](https://github.com/bradfitz/gomemcache)
 
+[groupcache 缓存填充库](https://github.com/golang/groupcache)
+
 ## 其它
 
 [ssh 远程连接](https://pkg.go.dev/golang.org/x/crypto/ssh)
