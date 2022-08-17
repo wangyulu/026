@@ -89,6 +89,8 @@
 
 [ssh 远程连接](https://pkg.go.dev/golang.org/x/crypto/ssh)
 
+[cyclicbarrier Go实现](https://github.com/marusama/cyclicbarrier)
+
 ## 编译器
 
 [编译器（checkptr）支持](https://golang.org/dl/gotip)
@@ -102,3 +104,5 @@
 ## 连接池
 
 [TCP 连接池](https://github.com/fatih/pool)
+
+
