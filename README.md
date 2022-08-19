@@ -104,7 +104,3 @@
 ## 连接池
 
 [TCP 连接池](https://github.com/fatih/pool)
-
-## 书
-
-[Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
