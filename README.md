@@ -34,6 +34,8 @@
 
 [创建守护进程](https://github.com/sevlyar/go-daemon)
 
+[GOPS 查看GO进程信息](https://github.com/google/gops)
+
 ## 类型转换、映射
 [map映射为结构体](https://github.com/mitchellh/mapstructure)
 
