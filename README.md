@@ -107,6 +107,8 @@
 
 [线程安全的map](https://github.com/orcaman/concurrent-map)
 
-## 连接池
+## 网络
 
 [TCP 连接池](https://github.com/fatih/pool)
+
+[HTTP 客户端](https://github.com/go-resty/resty)
