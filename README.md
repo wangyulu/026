@@ -112,3 +112,6 @@
 [TCP 连接池](https://github.com/fatih/pool)
 
 [HTTP 客户端](https://github.com/go-resty/resty)
+
+## awesome-go 
+[awesome-go 仓库](https://github.com/avelino/awesome-go)
